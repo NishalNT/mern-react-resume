@@ -20,7 +20,7 @@ export default class education extends Component {
                     <span>2021 - 2025</span>
                   </h6>
                   <p>
-                    Pursueding my Engineering at Canara Engineering College in the field of Computer Science And Engineering
+                    Pursueing my Engineering at Canara Engineering College in the field of Computer Science And Engineering
                   </p>
                 </blockquote>
               </div>
@@ -33,7 +33,7 @@ export default class education extends Component {
                     <span>2019 - 2021</span>
                   </h6>
                   <p>
-                    Completed my Pre University at Viveka PU College, Kota in the Field of PCMC with a grade of 90.67%
+                    Completed my Pre University at Viveka PU College, Kota in the field of PCMC with a grade of 90.67%
                   </p>
                 </blockquote>
               </div>
